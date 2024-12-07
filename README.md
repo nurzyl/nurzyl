@@ -1,3 +1,6 @@
-<p align="center">
-  <a href="https://github.com/nurzyl"><img src="https://img.shields.io/github/followers/nurzyl?label=followers&style=social"/></a>
-</p>
+Hi there 👋
+
+This is Rian. 
+
+<!--ACTION_START_FLAG:github-followers-->
+<!--ACTION_END_FLAG:github-followers-->
